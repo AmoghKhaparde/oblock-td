@@ -1,6 +1,6 @@
 [gd_scene load_steps=3 format=3 uid="uid://cjhtwlqwf0sll"]
 
-[ext_resource type="PackedScene" uid="uid://c7oj4rt2yjr7x" path="res://Mobs/soldier_a.tscn" id="1_q0fid"]
+[ext_resource type="PackedScene" uid="uid://c7oj4rt2yjr7x" path="res://soldier_a.tscn" id="1_q0fid"]
 
 [sub_resource type="Curve2D" id="Curve2D_a2usi"]
 _data = {

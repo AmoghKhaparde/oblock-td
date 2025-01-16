@@ -1,7 +1,8 @@
 extends Node2D
 
 @onready var path = preload("res://stage1.tscn")
-var num_spawn = 5
+var num_spawn = 100
+
 
 func _on_timer_timeout() -> void:
 	if num_spawn > 0:
